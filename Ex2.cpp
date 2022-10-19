@@ -32,17 +32,7 @@ int main()
         }
     }
     cout << counter << endl;
-    /*cout << c << endl;
-    cout << i << endl;
 
-    if (flag == false)
-        {
-            cout << "not pollindrom";
-        }
-    else
-        {
-            cout << "pollindrom";
-        }*/
 }
 
 
